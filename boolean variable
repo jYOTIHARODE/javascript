@@ -1,0 +1,9 @@
+<html>
+	<head>
+
+		<script type="text/javascript">
+			var x=false;//boolean
+			document.write(x);
+		</script>
+	</head>
+</html>
