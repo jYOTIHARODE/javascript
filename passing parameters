@@ -1,0 +1,12 @@
+<html>
+	<head>
+
+		<script type="text/javascript">
+			function message(name)
+			{
+				document.write("good morning , happy birthday"+name);
+			}
+			message(" abc ");		
+		</script>
+	</head>
+</html>
