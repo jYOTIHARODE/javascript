@@ -1,0 +1,12 @@
+<html>
+	<head>
+
+		<script type="text/javascript">
+			function result(name,marks)
+			{
+				document.write(name+ "your marks are "+marks);
+			}
+			result(" abc ","98");		
+		</script>
+	</head>
+</html>
