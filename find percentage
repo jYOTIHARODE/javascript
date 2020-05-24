@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<script type="text/javascript">
+			var physics;
+			var chem;
+			var maths;
+			var total;
+			var avg;
+			var percentage;
+			physics=80;
+			chem=70;
+			maths=90;
+			total=physics+chem+maths;
+			avg=total/3;
+			percentage=(total/300)*100;
+			document.write(percentage);
+		</script>
+	</head>
+	<body>
+	</body>
+	
+</html>
