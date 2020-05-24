@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<script type="text/javascript">
+			var age=25;
+			if(age>=10)
+			{
+				document.write("person is an adult");
+			}
+		</script>
+	</head>
+	<body>
+	</body>
+	
+</html>
