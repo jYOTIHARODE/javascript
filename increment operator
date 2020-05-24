@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<script type="text/javascript">
+			var marks=90;
+			marks=marks+10;
+			document.write(marks);
+		</script>
+	</head>
+	<body>
+	</body>
+	
+</html>
