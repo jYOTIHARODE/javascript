@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<script type="text/javascript">
+			var age=56;
+			if(age<=10)
+			{
+				document.write("person is so cute");
+			}
+			else
+			{
+				document.write("person is not cute");
+			}
+		</script>
+	</head>
+	<body>
+	</body>
+	
+</html>
