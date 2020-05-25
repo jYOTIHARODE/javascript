@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<script type="text/javascript">
+			for(var x=1;x<=3;x++)
+			{
+				document.write("hello users</br>")
+			}
+		</script>
+	</head>
+	<body>
+	</body>
+	
+</html>
