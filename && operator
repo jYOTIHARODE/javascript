@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<script type="text/javascript">
+			var first="abc";
+			var last="pqr";
+
+			if(first=="abc"&&last=="pqr")
+			{
+				document.write("first name is abc and last name is pqr");
+			}
+		</script>
+	</head>
+	<body>
+	</body>
+	
+</html>
