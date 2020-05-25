@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<script type="text/javascript">
+		var age=23;
+		var gender="boy";
+		if(age>25)
+		{
+			if(gender=="boy")
+			{
+				document.write("you are boy and age is 23");
+			}
+		}
+		else
+		{
+			document.write("you are not boy");
+		}
+		</script>
+	</head>
+	<body>
+	</body>
+	
+</html>
