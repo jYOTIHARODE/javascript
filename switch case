@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<script type="text/javascript">
+			var grade='A';
+			
+			switch(grade)
+			{
+				case "A":
+					document.write("Excellent");
+					break;
+				case "B":
+					document.write("you can do better");
+					break;
+				case "C":
+					document.write("Very poor , you need to improve");
+					break;
+				default:
+					document.write("default case");
+			}
+		</script>
+	</head>
+	<body>
+	</body>
+	
+</html>
