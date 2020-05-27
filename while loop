@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<script type="text/javascript">
+			var count=0;
+			while(count<5)
+			{
+				document.write("This is the code inside a loop </br>");
+				count++;
+			}
+		</script>
+	</head>
+	<body>
+	</body>
+	
+</html>
