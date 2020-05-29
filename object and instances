@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<script type="text/javascript">
+			
+			//this is a constructor 
+			function person(name,age)
+			{
+				this.name=name;
+				this.age=age;					
+			}
+
+			//creating instances of an object	
+			var abc=new person("abc",24);
+			var pqr=new person("pqr",28);
+
+		</script>
+		
+	</head>
+	<body>
+	
+		<script type="text/javascript">
+		document.write("your name is "+abc.name+ " and your age is "+abc.age);
+
+		</script>	
+	</body>
+	
+</html>
