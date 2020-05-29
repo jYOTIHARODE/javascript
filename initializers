@@ -1,0 +1,18 @@
+<html>
+	<head>
+
+		<script type="text/javascript">
+			pqr={name:"pqr",age:28};
+			abc={name:"abc",age:25};
+		</script>
+		
+	</head>
+	<body>
+	
+		<script type="text/javascript">
+			document.write(abc.age);
+		</script>	
+
+	</body>
+	
+</html>
