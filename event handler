@@ -1,0 +1,11 @@
+<html>
+	<head>
+		
+	</head>
+	<body>
+		<form>
+			<input type="button" value="click here"onclick="alert('you have clicked the button');"/>
+		</form>
+	</body>
+	
+</html>
