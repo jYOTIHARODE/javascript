@@ -1,0 +1,15 @@
+<html>
+	<head>
+		
+	</head>
+	<body>
+	
+<script type="text/javascript">
+	
+	var x="this is a variable x";
+	document.write(x.length);
+
+</script>	
+	</body>
+	
+</html>
