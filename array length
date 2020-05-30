@@ -1,0 +1,14 @@
+<!doctype html>
+	<html>
+
+	<head>
+		
+	</head>
+
+	<body>
+		<script type="text/javascript">
+			var name=new Array("abc","pqr");
+			document.write(name.length);
+		</script>
+	</body>
+	</html>
