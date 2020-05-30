@@ -1,0 +1,16 @@
+<!doctype html>
+	<html>
+
+	<head>
+		
+	</head>
+
+	<body>
+
+		<script type="text/javascript">
+			var str = new Array("A","B","C","D");
+			str.pop();
+			document.write(str[3]);
+		</script>
+	</body>
+	</html>
