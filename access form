@@ -1,0 +1,21 @@
+<!doctype html>
+	<html>
+
+	<head>
+		
+	</head>
+
+	<body>
+
+		<form name="formal">
+			username:<input type="text"/>
+			password:<input type="password"/>
+			<input type="submit"nalue="submit"/>
+		</form>
+
+		<script type="text/javascript">
+			var x=document.formal.length;
+			document.write(x);
+		</script>
+	</body>
+	</html>
