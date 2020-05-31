@@ -1,0 +1,16 @@
+<!doctype html>
+	<html>
+
+	<head>
+		
+	</head>
+
+	<body>
+
+		<script type="text/javascript">
+			var notepad=new array();
+			notepad["color"]="blue";
+			document.write(notepad["color"]);			
+		</script>
+	</body>
+	</html>
