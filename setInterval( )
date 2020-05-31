@@ -1,0 +1,18 @@
+<!doctype html>
+	<html>
+
+	<head>
+		
+	</head>
+
+	<body>
+
+		<script type="text/javascript">
+			function abc()
+			{
+				document.write("hello");
+			}
+			setInterval("abc()",2000);
+		</script>
+	</body>
+	</html>
