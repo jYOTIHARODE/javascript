@@ -9,7 +9,7 @@
 
 		<script type="text/javascript">
 			var names=new Array("A","B","C","D");
-			for(i=0;i<4;i++)
+			for(i=0;i<4names.length;i++)
 			{
 				document.write(names[i]+"</br");
 			}
