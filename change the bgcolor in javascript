@@ -1,0 +1,15 @@
+<!doctype html>
+	<html>
+
+	
+	<head>
+		
+	<body>
+		<form>
+			<select name="backGround"size="1"onChange=(document.bgColor=backGround.options[backGround.selectedIndex].value)>
+				<option value="red">Red
+				<option value="blue">Blue
+			</select>
+		</form>
+	</body>
+	</html>
