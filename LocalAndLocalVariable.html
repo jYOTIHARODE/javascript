@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <script type="text/Javascript">
+            var g1 = 10;//global variable can be used anywhere in the function
+            function fun1(){
+                var l1 = 20;//local variable
+                document.write(g1);
+            }
+            function fun2(){
+                document.write(g1);
+                document.write(l1);
+            }
+            fun1();
+            fun2();
+        </script>
+    </head>
+    <body>
+
+    </body>
+</html>
